@@ -2,8 +2,7 @@
 
 **You Can See My Repositories
 </br>
- Info Bot
-╚════════╩══════════════════════╩════════════════╝
+
 On <a href="https://github.com/SeTar-Bot">SeTar</a> Page**
 
 ## <a href="https://github.com/SeTar-Bot/Calendar-bot">Calendar Bot</a>
