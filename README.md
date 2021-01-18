@@ -4,6 +4,8 @@
 </br>
 On <a href="https://github.com/SeTar-Bot">SeTar</a> Page**
 
+## <a href="https://github.com/SeTar-Bot/MASS-DM">MASS DM</a>
+
 ## <a href="https://github.com/SeTar-Bot/Calendar-bot">Calendar Bot</a>
 
 ## <a href="https://github.com/SeTar-Bot/info-bot">Info Bot</a>
